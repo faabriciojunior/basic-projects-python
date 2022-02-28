@@ -1,0 +1,6 @@
+n1 = int(input('Digite um número: '))
+n2 = int(input('Digite outro número: '))
+print('Soma: {}.'.format(n1+n2))
+print('Subtração: {}.'.format(n1-n2))
+print('Multiplicação: {}.'.format(n1*n2))
+print('Divisão: {}.'.format(n1/n2))
